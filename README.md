@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/85664936?v=4"  width="500" height="500"/>
   <p align="center">
-<a href="#"><img title="WhiteDevil" src="https://img.shields.io/badge/WhiteDevil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Dhruv-sir" src="https://img.shields.io/badge/Dhruv-sir-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="d4cd5a64fb72059083de14e947fb8f82.jpg?size=31&width=30000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
+            src="d4cd5a64fb72059083de14e947fb8f82.jpg?size=31&width=30000&lines=Welcome+To+Dhruv-sir+BOT+codded+by+Karthik_x-pop..."
             alt="Typing SVG"
         />
     </a>
@@ -21,11 +21,11 @@
 
 
   <p align="center">
-<a href="https://github.com/terror-boy"><img title="Author" src="d4cd5a64fb72059083de14e947fb8f82.jpg
+<a href="https://github.com/x-pop"><img title="Author" src="d4cd5a64fb72059083de14e947fb8f82.jpg
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
+Project created by <a href="https://github.com/x-pop">Karthik_x-pop</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,21 +35,21 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 ----
 
   <p align="center">
-  <a href="httsp://github.com/terror-boy/WhiteDevil">
-    <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/x-pop/Dhruv-sir">
+    <img src="https://img.shields.io/github/repo-size/x-pop/Dhruv-sir?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/x-pop/followers"><img title="Followers" src="https://img.shields.io/github/followers/x-pop?color=blue&style=flat-square"></a>
+<a href="https://github.com/x-pop/Dhruv-sir/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/x-pop/Dhruv-sir?color=blue&style=flat-square"></a>
+<a href="https://github.com/x-pop/Dhruv-sir/network/members"><img title="Forks" src="https://img.shields.io/github/forks/x-pop/Dhruv-sir?color=blue&style=flat-square"></a>
+<a href="https://github.com/x-pop/Dhruv-sir/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/x-pop/Dhruv-sir?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-black.svg"</a>
 </p>
   
   #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/x-pop/count.svg)
   
 ### TOTAL WEBSITE VISIT
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwhitedevil-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://whitedevil-bot.yolasite.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FDhruv-sir-bot.yolasite.com&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://Dhruv-sir-bot.yolasite.com)
 
 ## 📢 Guide
   
@@ -61,7 +61,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=x-pop&repo=Dhruv-sir&theme=nightowl)](https://github.com/x-pop/Dhruv-sir)
   </div>
     
 # Setup
@@ -90,10 +90,10 @@ https://user-images.githubusercontent.com/85664936/140607887-14df4918-2548-4bcc-
 
 
   
-[![SETUP](https://www.linkpicture.com/q/pngaaa.com-2705636.png)](https://whitedevil-bot.yolasite.com)
+[![SETUP](https://www.linkpicture.com/q/pngaaa.com-2705636.png)](https://Dhruv-sir-bot.yolasite.com)
   
   
-[![SETUP](https://www.linkpicture.com/q/Daco_561272.png)](https://whitedevil-bot.yolasite.com)
+[![SETUP](https://www.linkpicture.com/q/Daco_561272.png)](https://Dhruv-sir-bot.yolasite.com)
   
      
   
@@ -120,7 +120,7 @@ https://user-images.githubusercontent.com/85664936/140608210-6541d1b6-1f12-4b8e-
     
 ### 📃 How Can I Download the Bot Script?
 
-You Can **[Click Here](https://github.com/terror-boy/WhiteDevil/archive/refs/heads/Terror-boy.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
+You Can **[Click Here](https://github.com/x-pop/Dhruv-sir/archive/refs/heads/x-pop.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
         
             
  ### F.A.Q
@@ -148,7 +148,7 @@ If you are concerned about security, you can install it on your own computer. If
     
 ### ❗ Does our number will banned from WhatsApp by Using This Bot?
 
-If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/terror-boy/WhiteDevil#-warning-)**
+If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/x-pop/Dhruv-sir#-warning-)**
 
 ### 🔄 Can I Edit this bot?
 
@@ -160,7 +160,7 @@ If you are concerned about that, Then you can just use bot on a [Fake Number](ht
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-WhiteDevil or we are not responsible for your account, 
+Dhruv-sir or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -172,15 +172,15 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![KARTHIK_TERROR-BOY/KARTHIK](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://wa.me/message/7UBLBAJZHISYH1)**
+**[![KARTHIK_x-pop/KARTHIK](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://wa.me/message/7UBLBAJZHISYH1)**
     
 ## **Developers & Supporters**
           
   <div align="center">
     
-  [![Karthik_terror-boy](https://github.com/terror-boy.png?size=200)](https://github.com/terror-boy) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=200)](https://github.com/farhan-dqz) |  [![saidali](https://github.com/saidalisaid2.png?size=200)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=200)](https://github.com/afnanplk) 
+  [![Karthik_x-pop](https://github.com/x-pop.png?size=200)](https://github.com/x-pop) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=200)](https://github.com/farhan-dqz) |  [![saidali](https://github.com/saidalisaid2.png?size=200)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=200)](https://github.com/afnanplk) 
 ----|----|----|----
-[Karthik_terror-boy](https://github.com/terror-boy)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[Karthik_x-pop](https://github.com/x-pop)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules 
   </div>
     
