@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=30000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
+            src="d4cd5a64fb72059083de14e947fb8f82.jpg?size=31&width=30000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
             alt="Typing SVG"
         />
     </a>
@@ -21,7 +21,7 @@
 
 
   <p align="center">
-<a href="https://github.com/terror-boy"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/WhiteDevil?color=white&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/terror-boy"><img title="Author" src="d4cd5a64fb72059083de14e947fb8f82.jpg
 </p>
 </div>
 <p align="center">
